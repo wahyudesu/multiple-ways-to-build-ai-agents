@@ -3,3 +3,6 @@
 
 /langgraph-py/.env
 /langgraph-py/.env.local
+/langgraph-py/.venv
+
+/pydantic-py/.venv
