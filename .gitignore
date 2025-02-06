@@ -1,8 +1,8 @@
 /vercel-ai-sdk/.env
 /vercel-ai-sdk/.env.local
 
-/langgraph-py/.env
-/langgraph-py/.env.local
-/langgraph-py/.venv
+/langgraph-python/.env
+/langgraph-python/.env.local
+/langgraph-python/.venv
 
-/pydantic-py/.venv
+/pydantic/.venv
