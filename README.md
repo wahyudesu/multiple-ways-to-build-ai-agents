@@ -1,4 +1,4 @@
-## Documentation soon
+## Build ai agent in Typescript and Python
 
 ##  For python
 
